@@ -1,3 +1,7 @@
+body {
+  background-color: lightsteelblue;
+}
+
 h1 {
   color: gray;
 }
@@ -6,11 +10,18 @@ h3 {
   color: gray;
 }
 
+.main {
+
+}
+
 .group-std {
 
 }
 
 .group-sidebar {
+  background-color: lightgray;
+  border: 2px black solid;
+  padding: 20px;
 
 }
 
