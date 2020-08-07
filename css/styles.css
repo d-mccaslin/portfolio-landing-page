@@ -24,6 +24,12 @@ p {
   margin: 20px;
 }
 
+.group-main {
+  border: 1px lightgray solid;
+  padding: 20px;
+  margin: 20px;
+}
+
 .group-std {
 
 }
@@ -45,14 +51,14 @@ p {
 
 .sidebar {
   float: right;
-  width: 20%;
+  width: 250px;
 }
 
 .img-center {
   text-align: center;
 }
 
-#header-main {
+.header-main {
   text-align: center;
 }
 
@@ -68,4 +74,12 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: lightgoldenrodyellow;
+  }
 }
