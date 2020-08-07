@@ -2,14 +2,10 @@ body {
   background-color: lightsteelblue;
 }
 
-h1 {
-  color: gray;
-  font-family: "Times New Roman";
-}
 
-h3 {
+h1, h2, h3, h4, h5 {
   color: gray;
-  font-family: "Times New Roman";
+  font-family: "Times New Roman"
 }
 
 p {
@@ -62,5 +58,14 @@ p {
 
 .project {
   border: 1px lightgray solid;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
