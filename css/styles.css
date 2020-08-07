@@ -30,6 +30,7 @@ h3 {
   background-color: lightgray;
   border: 2px black solid;
   padding: 20px;
+  margin-right: 20px;
 
 }
 
@@ -42,7 +43,7 @@ h3 {
 
 .sidebar {
   float: right;
-  width: 250px;
+  width: 20%;
 }
 
 .img-center {
