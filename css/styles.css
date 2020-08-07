@@ -14,6 +14,14 @@ h3 {
 
 }
 
+.column {
+  float: left;
+  width: 300px;
+  border: 2px gray dotted;
+  padding: 20px;
+  margin: 20px;
+}
+
 .group-std {
 
 }
