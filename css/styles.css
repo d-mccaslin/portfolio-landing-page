@@ -10,11 +10,20 @@ h3 {
 
 }
 
+.group-sidebar {
+
+}
+
 .group-img {
   width: 300px;
   height: 300px;
   display: inline-block;
   text-align: center;
+}
+
+.sidebar {
+  float: right;
+  width: 250px;
 }
 
 .img-center {
