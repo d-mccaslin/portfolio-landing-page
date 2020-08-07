@@ -2,7 +2,15 @@ h1 {
   color: gray;
 }
 
+h3 {
+  color: gray;
+}
+
 .group-std {
+
+}
+
+.group-img {
   width: 300px;
   height: 300px;
   display: inline-block;
