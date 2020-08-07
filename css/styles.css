@@ -17,7 +17,7 @@ h3 {
 .column {
   float: left;
   width: 300px;
-  border: 2px gray dotted;
+  border: 2px black solid;
   padding: 20px;
   margin: 20px;
 }
