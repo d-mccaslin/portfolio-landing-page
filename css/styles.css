@@ -4,10 +4,16 @@ body {
 
 h1 {
   color: gray;
+  font-family: "Times New Roman";
 }
 
 h3 {
   color: gray;
+  font-family: "Times New Roman";
+}
+
+p {
+  font-family: "Times New Roman";
 }
 
 .main {
@@ -52,5 +58,9 @@ h3 {
 
 #header-main {
   text-align: center;
+}
+
+.project {
+  border: 1px lightgray solid;
 }
 
