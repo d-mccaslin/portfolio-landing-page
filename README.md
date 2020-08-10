@@ -6,7 +6,9 @@
 
 ## Description
 
-_This application contains a single page - index - that is broken into several content sections. The pages lists projects I have worked on at Epicodus as well as some additional information about myself._
+_This application contains a single page - index - that is broken into several content sections. The pages lists projects I have worked on at Epicodus as well as some additional information about myself.
+
+Please view the project on GH pages: https://d-mccaslin.github.io/portfolio-landing-page/_
 
 ## Setup/Installation Requirements
 
