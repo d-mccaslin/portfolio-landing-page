@@ -1,14 +1,14 @@
 # _Portfolio Landing Page_
 
-#### _Personal portfolio page containg information about interests and experience, 2020_
+#### _Personal portfolio page containing information about interests and experience, 2020_
 
 #### By _**David McCaslin**_
 
 ## Description
 
-_This application contains a single page - index - that is broken into several content sections. The pages lists projects I have worked on at Epicodus as well as some additional information about myself.
+This application contains a single page - index - that is broken into several content sections. The pages lists projects I have worked on at Epicodus as well as some additional information about myself.
 
-Please view the project on GH pages: https://d-mccaslin.github.io/portfolio-landing-page/_
+Please view the project on GH pages: https://d-mccaslin.github.io/portfolio-landing-page/
 
 ## Setup/Installation Requirements
 
